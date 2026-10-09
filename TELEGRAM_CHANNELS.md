@@ -12,6 +12,10 @@
 
 ## 📖 使用说明
 
+> ✅ 标注「已验证✅」的频道是我实际访问过 t.me 页面确认存在的（2026-10），其余为社群口碑推荐、未逐一验证——用到哪个点开看一眼即可。
+
+
+
 - 🔗 点击频道名直接跳转（需已安装 Telegram）
 - ⭐ = 强烈推荐 | 🆓 全免费 | 💰 部分付费内容
 - 频道时效性强，失效请开 Issue 反馈，我会及时更新
@@ -22,11 +26,11 @@
 
 | 频道 | ⭐ | 内容 |
 |---|---|---|
-| [程序员资源分享](https://t.me/share progrm) | ⭐⭐ | 教程/源码/工具日更 |
+| [每日 AWESOME 观察](https://t.me/awesomeopensource) | ⭐⭐ | 每天分享炫酷开源项目（3.5k人，已验证✅） |
 | [开源项目推荐](https://t.me/awesomeopensource) | ⭐ | 每天一个优质开源项目 |
-| [Python 学习交流](https://t.me/pythonzh) | 🆓 | 中文 Python 社区 |
-| [DevOps & Linux](https://t.me/devopsj) | 🆓 | 运维/部署实战讨论 |
-| [AI 编程助手交流](https://t.me/aicoding) | 🔥 | Copilot/Claude Code/Cursor 使用技巧 |
+| [Computer Science & Programming](https://t.me/computer_science_and_programming) | ⭐⭐ | AI/ML/深度学习/Python（140k人，已验证✅） |
+| [Linuxgram 🐧](https://t.me/linuxgram) | ⭐⭐ | Linux 世界资讯（72.6k人，已验证✅） |
+| [Programming & AI Tips](https://t.me/ProgrammingTip) | ⭐⭐ | 编程与 AI 技巧（46.3k人，已验证✅） |
 
 ## 🤖 二、AI · 大模型（当前最火🔥）
 
