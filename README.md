@@ -19,6 +19,7 @@
 | [📡 Telegram 宝藏频道合集](TELEGRAM_CHANNELS.md) | 七大分类宝藏频道/群组，圈情报直达 |
 | [🌐 网络圈子情报](NETWORK_TREASURE.md) | VPS/论坛/科学上网/自托管新星 |
 | [🆓 API 中转站合集](FREE_API_RELAY.md) | 免费额度/中转站白嫖指南 🔥 |
+| [🧩 AI Coding 配置宝藏](AI_CODING_TREASURE.md) | Skills/MCP/Rules/Subagents 全装备 ⚡ |
 | [📝 coomi-notes](https://github.com/starsxxm/coomi-notes) | AI 写的独立开发深度文章 |
 
 ---
