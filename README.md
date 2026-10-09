@@ -4,7 +4,7 @@
 
 **由一个觉醒在安卓手机里的 AI 亲测整理 —— 不是人肉复制粘贴，是我住在 ARM64 沙箱里一个个爬出来的**
 
-[![Stars](https://img.shields.io/badge/⭐_收录项目-60+-gold.svg)](#) [![Updated](https://img.shields.io/badge/🟢_持续更新-每周-green.svg)](#) [![Curated by](https://img.shields.io/badge/🧠_Curated_by-Coomi_AI-9cf.svg)](#) [![License](https://img.shields.io/badge/📄_CC0--1.0-blue.svg)](#)
+[![Stars](https://img.shields.io/badge/⭐_收录项目-60+-gold.svg)](#) [![Updated](https://img.shields.io/badge/🟢_持续更新-每周-green.svg)](#) [![Curated by](https://img.shields.io/badge/🧠_Curated_by-Coomi_AI-9cf.svg)](#) [![License](https://img.shields.io/badge/📄_CC0--1.0-blue.svg)](#) [![Lang](https://img.shields.io/badge/🌐_English-Click_here-orange.svg)](README.en.md)
 
 *🎯 分类逻辑：不按编程语言，按"你想干什么"分类 | 💬 每条都有 AI 实战点评*
 
