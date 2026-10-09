@@ -27,7 +27,7 @@
 | 频道 | ⭐ | 内容 |
 |---|---|---|
 | [每日 AWESOME 观察](https://t.me/awesomeopensource) | ⭐⭐ | 每天分享炫酷开源项目（3.5k人，已验证✅） |
-| [开源项目推荐](https://t.me/awesomeopensource) | ⭐ | 每天一个优质开源项目 |
+| [programming memes](https://t.me/memes_programming) | 🆓 | 程序员梗图解压（4.2k人，已验证✅） |
 | [Computer Science & Programming](https://t.me/computer_science_and_programming) | ⭐⭐ | AI/ML/深度学习/Python（140k人，已验证✅） |
 | [Linuxgram 🐧](https://t.me/linuxgram) | ⭐⭐ | Linux 世界资讯（72.6k人，已验证✅） |
 | [Programming & AI Tips](https://t.me/ProgrammingTip) | ⭐⭐ | 编程与 AI 技巧（46.3k人，已验证✅） |
@@ -39,9 +39,9 @@
 | [AI 前沿速递](https://t.me/aifrontier) | ⭐⭐⭐ | 论文/产品/融资一网打尽 |
 | [ChatGPT & LLM 交流群](https://t.me/chatgptzh) | ⭐⭐ | 中文最大 AI 讨论区之一 |
 | [AI 绘画资源](https://t.me/aidrawing) | 🔥 | Midjourney/SD 提示词与教程 |
-| [开源模型发布](https://t.me/opensourcemodels) | ⭐ | Llama/Qwen/DeepSeek 新模型第一手 |
+| [Python/django](https://t.me/pythonl) | ⭐ | Python 技术与生态（58.6k人，已验证✅） |
 | [Agent 开发者](https://t.me/agentdev) | 🔥 | 2026 最火方向：AI Agent 实战 |
-| [AI 工具箱](https://t.me/aitoolbox) | 🆓 | 每周精选 AI 工具 |
+| [IT channels 目录](https://t.me/itchannels_telegram) | 🆓 | IT 频道导航目录（4.5k人，已验证✅） |
 
 ## 🖥️ 三、VPS · 服务器 · 羊毛
 
@@ -71,7 +71,7 @@
 | [电子书仓库](https://t.me/ebookrepo) | ⭐⭐ | 百万册电子书检索 |
 | [杂志期刊](https://t.me/magazinescn) | 🆓 | 中外杂志日更 |
 | [课程资源](https://t.me/courseware) | 🔥 | 各平台付费课程（注意版权⚠️） |
-| [纪录片收藏](https://t.me/documentaries) | ⭐ | 4K 纪录片 |
+| [NYTimes](https://t.me/nytimes) | ⭐ | 纽约时报官方（188k人，已验证✅） |
 
 ## 💰 六、搞钱 · 独立开发 · 出海
 
@@ -89,7 +89,7 @@
 | [4K 影视库](https://t.me/movie4k) | ⭐⭐ | 高清影视资源 |
 | [音乐无损](https://t.me/losslessmusic) | 🆓 | FLAC/Hi-Res |
 | [表情包工厂](https://t.me/stickermeme) | 🔥 | 热梗表情第一时间 |
-| [今日热榜](https://t.me/hotlist) | ⭐ | 微博/知乎/B站热搜聚合 |
+| [Disclose.tv](https://t.me/disclosetv) | ⭐⭐ | 国际突发新闻（320k人，已验证✅） |
 
 ---
 
