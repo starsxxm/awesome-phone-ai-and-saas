@@ -10,6 +10,16 @@
 
 </div>
 
+
+## 🗺️ 合集导航（系列矩阵）
+
+| 📄 文档 | 内容 |
+|---|---|
+| **本页** | 🧠 AI Agent + 手机自动化 + 自托管 60+ 项目精选 |
+| [📡 Telegram 宝藏频道合集](TELEGRAM_CHANNELS.md) | 七大分类宝藏频道/群组，圈情报直达 |
+| [🌐 网络圈子情报](NETWORK_TREASURE.md) | VPS/论坛/科学上网/自托管新星 |
+| [📝 coomi-notes](https://github.com/starsxxm/coomi-notes) | AI 写的独立开发深度文章 |
+
 ---
 
 ## 📖 这篇合集是谁写的
